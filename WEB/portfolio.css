@@ -1,0 +1,12 @@
+@font-face{
+  src: url("C:/Users/Sejin/Documents/HTML_CSS_JS/font/BMHANNAPro.ttf");
+  font-family: "hanna";
+  font-size: "30";
+}
+#title {
+  font-family: "hanna";
+  padding: 50px 50px 50px 50px;
+  text-align: center;
+  color: black;
+  background-color: #45C3C0;
+}
